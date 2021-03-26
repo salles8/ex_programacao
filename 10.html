@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="10.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+    <title>V10 Importar do Json</title>
+
+</head>
+<body>
+    <main>
+        <nav id="navMenu">
+            
+        <ul>
+            <li class="login">
+                <img src="img/icon_on.png" width="30px" height="30px" alt="login icon">Login</li>
+        </ul>
+        <ul>
+            <li class="item"><h4>Livros</h4></li>
+
+            <a href="#"><li>Português</li></a>
+            <a href="#"><li>em Inglês </li></a>
+            <a href="#"><li>em Espanhol</li></a>
+            <a href="#"><li>em Francês</li></a>
+            <a href="#"><li>eBooks</li></a>
+            <a href="#"><li>Livros Escolares</li></a>
+            <a href="#"><li>Apoio Escolar</li></a>
+            <a href="#"><li>Papelaria</li></a>
+        </ul>
+            
+        </nav>
+        <div class="contaier_content">
+            <header>
+                <div>
+                    <button id="btToggleMenu" onclick="myToggleMenu()">
+                        <img src="img/icon_hamburger.png" width="30px" height="30px">
+                    </button> 
+                </div>
+                <div>
+                    <img class="logo" src="img/logo_wook.png" alt="logo wook">
+                </div>
+               
+                <div class="search">
+                    <img src="img/icon_search.png" width="30px" height="30px" alt="search icon">
+                    <input class="search_box" type="text">
+                </div>
+                <div>
+                    <img src="img/icon_heart.png" width="30px" height="30px" alt="cart icon">
+                </div> 
+                <div>
+                    <img src="img/icon_cart.png" width="30px" height="30px" alt="cart icon">
+                </div> 
+            </header>
+                       <section class="banner_hero">
+                        <div class="slideshow-container">
+
+                            
+                        </div>
+                       
+                            
+                            <!-- <div style="text-align:center">
+                              <span class="dot" onclick="currentSlide(1)"></span> 
+                              <span class="dot" onclick="currentSlide(2)"></span> 
+                              <span class="dot" onclick="currentSlide(3)"></span> 
+                            </div> -->
+                    </section>
+
+
+            <div class="container">
+                <h3>Wook não pode perder</h3>
+               
+                <section id="suggestions"></section>
+                <section class="row_3">
+                    <caption>
+                    <h3><span class="bold">INÊS GAYA</span>
+                    A NOVA ERA
+                    É UMA MISSÃO DE <span class="bold">CURA E RECONEXÃO</span></h3>
+                    </caption>
+                    <figure>
+                        <img class="img-responsive" src="img/20210218-mensagem-a-nova-era.gif">
+                    </figure>
+                    <div>
+                    <img src="img/150x.jpg">
+                    </div>
+                </section>
+            </div>
+    
+    
+                <section class="banner">
+                    <h3><span><b>boas leituras</b> </span>a partir de <b>4,99€</b>!</h3>
+                </section>
+                <div class="container">
+
+                    <h3><b>Atividades para os mais novos</b></h3>
+                    <section id="suggestions2"></section>
+                </div>
+    </main>
+
+
+<script type="text/javascript" src="10.json"></script>
+<script type="text/javascript" src="10b.json"></script>
+<script type="text/javascript" src="10.js"></script>
+    
+</body>
+</html>

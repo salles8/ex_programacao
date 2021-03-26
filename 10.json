@@ -1,0 +1,73 @@
+[{
+  "@type": "ListItem",
+  "image": "https://img.wook.pt/images/as-receitas-o-poder-do-jejum-intermitente-alexandra-vasconcelos/MXwyNDY2OTE5OXwyMDgxMDA0OXwxNjE0ODE2MDAwMDAw",
+  "url": "https://www.wook.pt/livro/as-receitas-o-poder-do-jejum-intermitente-alexandra-vasconcelos/24669199",
+  "discount":10,
+  "porte": "PORTES GRÁTIS",
+"name": "As Receitas - O Poder do Jejum Intermitente",
+"autor":  "de Sofia Castro Fernandes",
+"preco": 13.95,
+"estrelas": "3",
+"avaliadores": "11",
+  "position": "1"
+},{
+  "@type": "ListItem",
+  "image": "https://img.wook.pt/images/nao-e-so-sangue-patricia-lemos/MXwyNDY1NTA1M3wyMDc5MjkwNnwxNjE0MTI0ODAwMDAw",
+  "url": "https://www.wook.pt/livro/nao-e-so-sangue-patricia-lemos/24655053",
+  "discount":5,
+  "porte": "PORTES GRÁTIS", 
+  "name": "Não é só Sangue",
+  "autor":  "de Sofia Castro Fernandes",
+  "preco": 13.95,
+  "estrelas": "5", 
+  "avaliadores": "20",
+  "position": "2"
+},{
+  "@type": "ListItem",
+  "image": "https://img.wook.pt/images/acredita-coisas-boas-acontecem-sofia-castro-fernandes/MXwyNDU2OTg2MHwyMDY3NTk0OHwxNjE0NTU2ODAwMDAw",
+  "url": "https://www.wook.pt/livro/acredita-coisas-boas-acontecem-sofia-castro-fernandes/24569860",
+  "discount":10,
+  "porte": "PORTES GRÁTIS",
+  "name": "Acredita Coisas Boas Acontecem",
+  "autor":  "de Sofia Castro Fernandes",
+  "preco": 13.95, 
+  "estrelas": "0",
+  "avaliadores": "0",
+  "position": "3"
+},{
+  "@type": "ListItem",
+  "image": "https://img.wook.pt/images/o-segredo-do-sistema-imunitario-doutor-manuel-pinto-coelho/MXwyNDY0NTc1N3wyMDc4MjMzNHwxNjEzNjA2NDAwMDAw",
+  "url": "https://www.wook.pt/livro/o-segredo-do-sistema-imunitario-doutor-manuel-pinto-coelho/24645757",
+  "discount":10,
+  "porte": "PORTES GRÁTIS", 
+  "name": "O Segredo do Sistema Imunitário",
+  "autor":  "de Sofia Castro Fernandes",
+  "preco": 13.95, 
+  "estrelas": "5",
+  "avaliadores": "11",
+  "position": "4"
+},{
+  "@type": "ListItem",
+  "image": "https://img.wook.pt/images/mulheres-da-minha-alma-isabel-allende/MXwyNDI1MzY1N3wyMDc5MTc5NHwxNjA5Mjg2NDAwMDAw",
+  "url": "https://www.wook.pt/livro/mulheres-da-minha-alma-isabel-allende/24253657",
+  "discount":10,
+  "porte": "PORTES GRÁTIS", 
+  "name": "Mulheres da minha alma",
+  "autor":  "de Sofia Castro Fernandes",
+  "preco": 13.95, 
+  "estrelas": "4",
+  "avaliadores": "111",
+  "position": "5"
+},{
+  "@type": "ListItem",
+  "image": "https://img.wook.pt/images/after-livro-4-anna-todd/MXwxNzkyODQyOXwxMzU3MDg0NnwxNDYyNDAyODAwMDAw",
+  "url": "https://www.wook.pt/livro/after-livro-4-anna-todd/17928429",
+  "discount":10,
+  "porte": "PORTES GRÁTIS", 
+  "name": "After - Livro 4",
+  "autor":  "de Sofia Castro Fernandes",
+  "preco": 13.95, 
+  "estrelas": "0",
+  "avaliadores": "0",
+  "position": "6"
+}]  

@@ -1,0 +1,67 @@
+[{
+    "@type": "ListItem",
+    "image": "https://img.wook.pt/images/cronica-de-paixoes-e-caprichos-julia-quinn/MXwxMjYyMzE5MHw4MTk1Mjg1fDE2MDY2OTQ0MDAwMDA=",
+    "url": "https://www.wook.pt/livro/cronica-de-paixoes-e-caprichos-julia-quinn/12623190",
+    "discount":"10%",
+    "porte": "PORTES GRÁTIS",
+    "name": "Crónica de Paixões e Caprichos",
+    "preco": 13.95, 
+    "estrelas": "5",
+ "avaliadores": "11",
+"position": "1"
+  },{
+    "@type": "ListItem",
+    "image": "https://img.wook.pt/images/pense-e-fique-rico-napoleon-hill/MXwxMjYyMzIwOXw4MTk1MzA0fDE1MTAwOTkyMDAwMDA=",
+    "url": "https://www.wook.pt/livro/pense-e-fique-rico-napoleon-hill/12623209",
+    "discount":"10%",
+    "porte": "PORTES GRÁTIS",
+    "name": "Pense e Fique Rico",
+    "preco": 13.95, 
+    "estrelas": "5",
+ "avaliadores": "11",
+"position": "2"
+  },{
+    "@type": "ListItem",
+    "image": "https://img.wook.pt/images/treinar-as-emocoes-para-ser-feliz-augusto-cury/MXwyMzI0NTYwNnwxOTE4MTkzMnwxNTY0MDA5MjAwMDAw",
+    "url": "https://www.wook.pt/livro/treinar-as-emocoes-para-ser-feliz-augusto-cury/23245606",
+    "discount":"10%",
+    "porte": "PORTES GRÁTIS",
+    "name": "Treinar as Emoções para ser Feliz",
+    "preco": 13.95, 
+    "estrelas": "5",
+ "avaliadores": "11",
+"position": "3"
+  },{
+    "@type": "ListItem",
+    "image": "https://img.wook.pt/images/o-cuquedo-e-um-amor-que-mete-medo-clara-cunha/MXwyMDkxNDEwM3wxNjc3MTQyNnwxNTc0OTg1NjAwMDAw",
+    "url": "https://www.wook.pt/livro/o-cuquedo-e-um-amor-que-mete-medo-clara-cunha/20914103",
+    "discount":"10%",
+    "porte": "PORTES GRÁTIS",
+    "name": "O Cuquedo e Um Amor que Mete Medo",
+    "preco": 13.95, 
+    "estrelas": "5",
+ "avaliadores": "11",
+"position": "4"
+  },{
+    "@type": "ListItem",
+    "image": "https://img.wook.pt/images/o-lorde-pagao-bernard-cornwell/MXwyMzIyMzk5NHwxOTE1NTY2NnwxNTYyNTQwNDAwMDAw",
+    "url": "https://www.wook.pt/livro/o-lorde-pagao-bernard-cornwell/23223994",
+    "discount":"10%",
+    "porte": "PORTES GRÁTIS",
+    "name": "O Lorde Pagão",
+    "preco": 13.95, 
+    "estrelas": "5",
+ "avaliadores": "11",
+"position": "5"
+  },{
+    "@type": "ListItem",
+    "image": "https://img.wook.pt/images/o-meta-segredo-mel-gill/MXwxMDQwMzM5N3w1OTgyNzM4fDEzODM1MjMyMDAwMDA=",
+    "url": "https://www.wook.pt/livro/o-meta-segredo-mel-gill/10403397",
+    "discount":"10%",
+    "porte": "PORTES GRÁTIS",
+        "name": "O Meta Segredo",
+    "preco": 13.95, 
+    "estrelas": "5",
+ "avaliadores": "11",
+"position": "6"
+  }]  
