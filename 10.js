@@ -51,6 +51,26 @@ fetch("http://127.0.0.1:5500/10b.json").then(async function(res) {
   document.getElementById("suggestions2").innerHTML = elem2;
 })
 
+fetch("http://127.0.0.1:5500/10c.json").then(async function(res) {
+  const itemListElement3 = await res.json();
+  var elem3 = '';
+  for (var i = 0; i < itemListElement3.length; i++){
+    elem3 += '<article>';
+    elem3 += `<img class="img-responsive" src='${itemListElement3[i].image}' />`;
+    elem3 += `<div class="discount">${itemListElement3[i].discount}</div>`;
+    elem3 += `<p class="porte">${itemListElement3[i].porte}</p>`;
+    elem3 += `<p class="preco">${(itemListElement3[i].preco.toString().replace('.',','))}€</p>`;
+    if (parseInt(itemListElement3[i].estrelas)>0){
+    elem3 += `<div class="estrelas">${showStars(itemListElement3[i].estrelas)}</div>`;
+    }
+    if (parseInt(itemListElement3[i].avaliadores)>0){
+        elem3 += `<p class="avaliadores">&nbsp(${itemListElement3[i].avaliadores})</p>`;
+    }
+    elem3 += '</article>';
+  }
+  document.getElementById("suggestions3").innerHTML = elem3;
+})
+
 
 function myToggleMenu() {
   var element = document.getElementById("navMenu");
